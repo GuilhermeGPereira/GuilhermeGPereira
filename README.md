@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**GuilhermeGPereira/GuilhermeGPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Guilherme Pereira
+Sou estudante de GPSI com interesse em GPSI.
+Estou a desenvolver competências em programação e tecnologia.
 
-Here are some ideas to get you started:
+## Tecnologias
+- Python
+- HTML, CSS, JavaScript
+- Git e GitHub
+- Bases de dados (MySQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+### Projeto 1 – Sistema de Gestão
+- Desenvolvido em Python
+- Permite gerir clientes e produtos
+### Projeto 2 – Website
+- HTML, CSS e JavaScript
+- Layout responsivo
+
+## Atualmente a aprender
+- JavaScript avançado
+- APIs
+- Desenvolvimento web
+
+## Objetivos
+- Tornar-me programador web
+- Trabalhar em projetos reais
+- Aprender novas tecnologias
+
+## Contacto
+- Email: a11647@aemaximinos.edu.pt
